@@ -1,0 +1,83 @@
+
+[
+    {
+        "id": 1,
+        "name": "Elegant Blue Dress",
+        "category": "dress",
+        "price": 1299,
+        "description": "Traditional blue dress with elegant embroidery",
+        "emoji": "👗"
+    },
+    {
+        "id": 2,
+        "name": "Pink Party Dress",
+        "category": "dress",
+        "price": 1599,
+        "description": "Beautiful pink dress for parties",
+        "emoji": "👗"
+    },
+    {
+        "id": 3,
+        "name": "Casual Summer Dress",
+        "category": "dress",
+        "price": 999,
+        "description": "Lightweight casual summer dress",
+        "emoji": "👗"
+    },
+    {
+        "id": 4,
+        "name": "Classic White Sneakers",
+        "category": "sneakers",
+        "price": 1999,
+        "description": "White casual sneakers for everyday wear",
+        "emoji": "👟"
+    },
+    {
+        "id": 5,
+        "name": "Sport Running Shoes",
+        "category": "shoes",
+        "price": 2499,
+        "description": "Comfortable running shoes",
+        "emoji": "👟"
+    },
+    {
+        "id": 6,
+        "name": "Casual Blue Shirt",
+        "category": "shirt",
+        "price": 899,
+        "description": "Blue casual shirt for everyday wear",
+        "emoji": "👕"
+    },
+    {
+        "id": 7,
+        "name": "Black Fashion Handbag",
+        "category": "handbag",
+        "price": 1499,
+        "description": "Elegant black handbag",
+        "emoji": "👜"
+    },
+    {
+        "id": 8,
+        "name": "Brown Shoulder Bag",
+        "category": "handbag",
+        "price": 1199,
+        "description": "Stylish brown shoulder bag",
+        "emoji": "👜"
+    },
+    {
+        "id": 9,
+        "name": "Classic Blue Jeans",
+        "category": "jeans",
+        "price": 1399,
+        "description": "Comfortable blue denim jeans",
+        "emoji": "👖"
+    },
+    {
+        "id": 10,
+        "name": "Casual Black Jacket",
+        "category": "jacket",
+        "price": 1899,
+        "description": "Modern black casual jacket",
+        "emoji": "🧥"
+    }
+]
